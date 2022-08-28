@@ -1,0 +1,5 @@
+Digite seu nome:
+
+Digite seu E-mail:
+
+Digite sua senha:
